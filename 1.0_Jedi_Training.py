@@ -1,11 +1,11 @@
 '''
-Sign your name:________________
+Sign your name:Ethan Huynh
 
 
 
-Define Forking: 
+Define Forking: Making a copy from the repository
 
-Define Cloning: 
+Define Cloning: Making a copy
 
 Define Branching:
 
