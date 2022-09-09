@@ -19,7 +19,7 @@ kit=turtle.Turtle()
 screen=turtle.Screen() # makes a screen object
 screen.bgcolor('white') # colors the screen
 kit.pensize(3) # width of pen line
-kit.speed(50)  # speed of drawing. Go fast to not waste time.
+kit.speed(15)  # speed of drawing. Go fast to not waste time.
 
 
 
@@ -135,4 +135,5 @@ kit.write('i love cheese AHHHHH',font=("Arial", 16, "normal")) # signs your name
 kit.left(120)
 kit.forward(50)
 kit.write('by ethan huynh',font=("Arial", 16, "normal"))
+kit.forward(50)
 turtle.exitonclick() #Keeps pycharm window open so we can see the drawing
